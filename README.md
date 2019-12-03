@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/gh/Ipxxiao/transfer-files-webpack-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/Ipxxiao/transfer-files-webpack-plugin)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-accuracy calculation for js. 解决Javascript浮点运算精度问题。
+transfer files plugin for webpack. sftp传输文件————webpack插件。
 
 ## Browsers support
 
