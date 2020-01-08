@@ -1,6 +1,6 @@
 {
     "name": "transfer-files-webpack-plugin",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "transfer files plugin for webpack",
     "repository": {
         "type": "git",
