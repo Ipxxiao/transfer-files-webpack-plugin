@@ -1,5 +1,3 @@
-# Introduction
-
 [![NPM version](https://img.shields.io/npm/v/transfer-files-webpack-plugin.svg?style=flat)](https://www.npmjs.com/package/transfer-files-webpack-plugin)
 [![Build Status](https://travis-ci.org/Ipxxiao/transfer-files-webpack-plugin.svg?branch=master)](https://travis-ci.org/Ipxxiao/transfer-files-webpack-plugin)
 [![codecov](https://codecov.io/gh/Ipxxiao/transfer-files-webpack-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/Ipxxiao/transfer-files-webpack-plugin)
